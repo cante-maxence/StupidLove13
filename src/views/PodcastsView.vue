@@ -45,14 +45,14 @@
   
     </div>
    
-    <audio id="song" class="block w-full max-w-md mx-auto" controls>
+    <audio id="song1" class="block w-full max-w-md mx-auto" controls>
       <source src="../../public/10citations.mp3" type="audio/mp3">
       </audio>
       <div class="mt-4">
-        <button onclick="document.getElementById('song').play()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Play</button>
-        <button onclick="document.getElementById('song').pause()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Pause</button>
-        <button onclick="document.getElementById('song').volume += 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume +</button>
-        <button onclick="document.getElementById('song').volume -= 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume -</button>
+        <button onclick="document.getElementById('song1').play()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Play</button>
+        <button onclick="document.getElementById('song1').pause()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Pause</button>
+        <button onclick="document.getElementById('song1').volume += 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume +</button>
+        <button onclick="document.getElementById('song1').volume -= 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume -</button>
       </div>
       
       <p class=" w-3/6 text-center break-words">10 citations sur l'Amour</p>
@@ -83,14 +83,14 @@
   
     </div>
    
-    <audio id="song" class="block w-full max-w-md mx-auto" controls>
+    <audio id="song2" class="block w-full max-w-md mx-auto" controls>
       <source src="../../public/lgbt.mp3" type="audio/mp3">
       </audio>
       <div class="mt-4">
-        <button onclick="document.getElementById('song').play()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Play</button>
-        <button onclick="document.getElementById('song').pause()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Pause</button>
-        <button onclick="document.getElementById('song').volume += 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume +</button>
-        <button onclick="document.getElementById('song').volume -= 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume -</button>
+        <button onclick="document.getElementById('song2').play()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Play</button>
+        <button onclick="document.getElementById('song2').pause()" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Pause</button>
+        <button onclick="document.getElementById('song2').volume += 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume +</button>
+        <button onclick="document.getElementById('song2').volume -= 0.1" class="bg-gray-900 m-2 px-2 rounded-lg hover:bg-slate-800">Volume -</button>
       </div>
       
       <p class=" w-3/6 text-center break-words">LGBTQIAA2S+</p>

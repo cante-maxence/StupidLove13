@@ -25,10 +25,7 @@
               <label for="email" class="block mb-2 text-sm text-white">Email</label>
               <input type="email" name="email" id="email" placeholder="Votre Mail" required class="w-full px-3 py-2 placeholder-gray-300 bg-white/20 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-300 focus:border-indigo-300" />
             </div>
-            <div class="mb-6">
-              <label for="phone" class="text-sm text-white">Numéro de téléphone</label>
-              <input type="text" name="phone" id="phone" placeholder="Votre Numéro" required class="w-full px-3 py-2 placeholder-gray-300 bg-white/20 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-300 focus:border-indigo-300" />
-            </div>
+  
             <div class="mb-6">
               <label for="message" class="block mb-2 text-sm text-white">Votre Message</label>
               <textarea rows="5" name="message" id="message" placeholder="Votre Message" class="w-full px-3 py-2 placeholder-gray-300 bg-white/20 border border-gray-300 rounded-md focus:outline-none focus:ring focus:ring-indigo-300 focus:border-indigo-300" required></textarea>
