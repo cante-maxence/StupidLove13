@@ -14,7 +14,7 @@
                 </a>
               </div>
 
-              <img class="menu-icon " src="../burger-menu.svg" title='Burger Menu' alt='Burger Menu'
+              <img class="menu-icon " src="../public/burger-menu.svg" title='Burger Menu' alt='Burger Menu'
                 @click="toggleMenu">
             </div>
             <ul class="navigation">
